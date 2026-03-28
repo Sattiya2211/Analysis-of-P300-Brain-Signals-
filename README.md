@@ -217,5 +217,5 @@ before skipping the file.
 
 ## Authors
 
-Team bigP3BCI  
+Kambing Muda (Sattiya, Sidney, Ika, Ze Dong) 
 Built for the bigP3BCI Machine Learning Competition
